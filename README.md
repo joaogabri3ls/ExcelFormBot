@@ -10,7 +10,7 @@ Este projeto utiliza Selenium para automatizar o preenchimento de um formulário
 
 ## Configuração
 1. Instale as dependências usando `pip install -r requirements.txt`.
-2. Faça o download do driver do Chrome (Chromedriver) [aqui]([https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/downloads?authuser=0).
+2. Faça o download do driver do Chrome (Chromedriver) [aqui]([https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/downloads?authuser=0)).
 3. Configure o caminho do Chromedriver no arquivo `Automação.py`.
 
 ## Execução
