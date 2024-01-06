@@ -1,6 +1,6 @@
 ﻿# ExcelFormBot
  
-Este projeto utiliza Selenium para automatizar o preenchimento de um formulário fictício e cadastra produtos em um site fictício.
+Este projeto utiliza Selenium para automatizar o preenchimento de um formulário fictício utilizando dados fictícios em uma planilha.
 
 ## Estrutura do Projeto
 
