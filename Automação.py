@@ -27,7 +27,6 @@ browser = webdriver.Chrome(options=chrome_options)
 
 
 browser.get('https://joaogabri3ls.github.io/Formulario/')
-# assert 'Google' in browser.title
 
 for linha in sheet_produtos.iter_rows(min_row=2):
 
